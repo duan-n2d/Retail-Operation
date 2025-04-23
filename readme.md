@@ -102,4 +102,4 @@ Contributions to improve the analytics scripts or extend functionality are welco
 
 ## License
 
-[Insert your license information here]
+[LICENSE](LICENSE)
